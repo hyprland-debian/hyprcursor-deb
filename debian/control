@@ -1,0 +1,12 @@
+Source: hyprcursor
+Section: utils
+Priority: extra
+Maintainer: John Doe <john@doe.org>
+Standards-Version: VERSION_TEMPLATE
+
+Package: hyprcursor
+Section: utils
+Priority: extra
+Architecture: amd64
+Depends: ${shlibs:Depends}
+Description: The hyprland cursor format, library and utilities.
